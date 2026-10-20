@@ -1,0 +1,9 @@
+// Probamos con el DFA de la figura de la modificacion
+
+a b
+4
+0
+0 0 a 1 b 3
+1 0 a 2 b 3
+2 1 a 2 b 2
+3 0 a 3 b 3
